@@ -4,4 +4,4 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Content Delivery
 
-1. Notes, Projects & Exercises  - https://classroom.google.com/c/NTQ5NzIxNDEwMVpa
+1. Notes, Projects, Exercises and Presentations  - https://classroom.google.com/c/NTQ5NzIxNDEwMVpa 
