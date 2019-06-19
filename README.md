@@ -6,4 +6,4 @@ This is a secured learning zone  for professional Software Engineering students 
 
 1. Notes, Projects & Exercises  - https://classroom.google.com/c/NTQ5NzIxNDEwMVpa
 
-2. ebs onTrack - https://ebsontrackpluslivex.citylit.ac.uk/Page/RegisterDetails?RegisterEventId=x
+2. ebs onTrack - https://ebsontrackpluslivex.citylit.ac.uk/
