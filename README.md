@@ -5,3 +5,13 @@ This is a secured learning zone  for professional Software Engineering students 
 ## Content Delivery
 
 1. Notes, Projects, Exercises and Presentations  - https://classroom.google.com/c/NTQ5NzIxNDEwMVpa 
+
+## Coverage 
+
+1. Open Source Technologies & Hands-on Programming 
+
+2. Busineess Compuing
+
+3. Digial Transformation
+
+4. Design Thinking and Strategic Lean Engineering Practices
