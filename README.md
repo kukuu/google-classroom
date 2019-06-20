@@ -12,6 +12,6 @@ This is a secured learning zone  for professional Software Engineering students 
 
 2. Busineess Compuing
 
-3. Digial Transformation
+3. Digital Transformation
 
 4. Design Thinking and Strategic Lean Engineering Practices
