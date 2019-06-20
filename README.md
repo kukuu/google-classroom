@@ -15,3 +15,7 @@ This is a secured learning zone  for professional Software Engineering students 
 3. Digital Transformation
 
 4. Design Thinking and Strategic Lean Engineering Practices
+
+## Pick of the week
+
+https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
