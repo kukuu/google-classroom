@@ -18,4 +18,6 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Pick of the week
 
-https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
+https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md 
+
+https://github.com/kukuu/AGILITY/blob/master/design-thinking.md
