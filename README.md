@@ -10,7 +10,7 @@ This is a secured learning zone  for professional Software Engineering students 
 
 1. Open Source Technologies & Hands-on Programming 
 
-2. Busineess Compuing
+2. Business Compuing
 
 3. Digital Transformation
 
