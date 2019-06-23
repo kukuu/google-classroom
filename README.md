@@ -23,3 +23,5 @@ Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md
 Design Thinking - https://github.com/kukuu/AGILITY/blob/master/design-thinking.md 
 
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
+
+Working with Micro-services - https://github.com/kukuu/microservices-nodejs-docker-nginx
