@@ -24,4 +24,4 @@ Design Thinking - https://github.com/kukuu/AGILITY/blob/master/design-thinking.m
 
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
 
-Working with Micro-services & Transforming Legacy Systems - https://github.com/kukuu/microservices-nodejs-docker-nginx
+Micro-services & Transforming Legacy Systems - https://github.com/kukuu/microservices-nodejs-docker-nginx
