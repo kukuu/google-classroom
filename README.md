@@ -18,8 +18,8 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Pick of the week
 
-https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md 
+Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md
 
-https://github.com/kukuu/AGILITY/blob/master/design-thinking.md 
+Design Thinking - https://github.com/kukuu/AGILITY/blob/master/design-thinking.md 
 
-https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
+Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
