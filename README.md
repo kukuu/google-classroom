@@ -25,6 +25,6 @@ Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-p
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
 
 Micro-services  
-i. Micro-service API with NodeJS and Express Framework & Swagger - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices
+i. API - NodeJS, Express Framework, MongoDB & Swagger - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices
 
 ii. NodeJS/NGINX/Docker  - https://github.com/kukuu/microservices-nodejs-docker-nginx
