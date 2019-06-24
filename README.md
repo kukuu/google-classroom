@@ -20,8 +20,11 @@ This is a secured learning zone  for professional Software Engineering students 
 
 Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md
 
-Design Thinking - https://github.com/kukuu/AGILITY/blob/master/design-thinking.md 
+Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
 
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
 
-Micro-services & Transforming Legacy Systems - https://github.com/kukuu/microservices-nodejs-docker-nginx
+Micro-services  
+i. Micro-service API with NodeJS and Express Framework & Swagger - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices
+
+ii. NodeJS/NGINX/Docker  - https://github.com/kukuu/microservices-nodejs-docker-nginx
