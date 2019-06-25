@@ -27,4 +27,6 @@ Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/
 Micro-services  
 i. API - NodeJS, Express Framework, MongoDB & Swagger - https://github.com/kukuu/Microservice-NodeJS/tree/master/microservices
 
-ii. NodeJS/NGINX/Docker  - https://github.com/kukuu/microservices-nodejs-docker-nginx
+ii. NodeJS/NGINX/Docker  - https://github.com/kukuu/microservices-nodejs-docker-nginx 
+
+iii. Node, MongoDB, Notification - https://github.com/kukuu/cinema-microservice
