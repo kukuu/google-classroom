@@ -29,4 +29,4 @@ i. API - NodeJS, Express Framework, MongoDB & Swagger - https://github.com/kukuu
 
 ii. NodeJS/NGINX/Docker  - https://github.com/kukuu/microservices-nodejs-docker-nginx 
 
-iii. Node, MongoDB, Notification - https://github.com/kukuu/cinema-microservice
+iii. Node, MongoDB, Docker Swarm, Notification - https://github.com/kukuu/cinema-microservice
