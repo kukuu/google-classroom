@@ -18,6 +18,8 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Pick of the week
 
+Best Practices - https://github.com/kukuu/AGILITY/tree/master/white-paper/architectural-solutions/cloud-computing 
+
 Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md
 
 Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
