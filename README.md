@@ -24,6 +24,8 @@ Big Data - https://github.com/kukuu/AGILITY/blob/master/white-paper/big-data.md
 
 Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-paper/hybrid-cms-headles.md
 
+Monolithic v Micro-services Architecture - https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png
+
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
 
 Micro-services  
