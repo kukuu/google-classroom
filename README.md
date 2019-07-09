@@ -26,7 +26,6 @@ Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-p
 
 Monolithic v Micro-services Architecture - https://github.com/kukuu/AGILITY/blob/master/difference-between-monolithic-and-microservices-architecture-1.png 
 
-Micro-services & API Gateway - https://github.com/kukuu/digitalTransformationStrategies/blob/master/APIgatewayResolution4microservices.png
 
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
 
