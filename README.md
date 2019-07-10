@@ -8,13 +8,15 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Coverage 
 
-1. Open Source Technologies & Hands-on Programming 
+1. Open Source Technologies 
 
-2. Business Computing
+2. Hands-on Programming 
 
-3. Digital Transformation
+3. Business Computing
 
-4. Design Thinking and Strategic Lean Engineering Practices
+4. Digital Transformation
+
+5. Design Thinking and Strategic Lean Engineering Practices
 
 ## Pick of the week
 
