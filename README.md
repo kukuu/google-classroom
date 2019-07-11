@@ -35,3 +35,5 @@ Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-p
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
 
 The JavaScript Event Loop & NodeJS - https://github.com/kukuu/AGILITY/blob/master/JavaScript-EventLoop.md 
+
+Scaffolding - https://github.com/kukuu/AGILITY/blob/master/white-paper/README-scaffolding.md
