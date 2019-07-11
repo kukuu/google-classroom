@@ -20,7 +20,9 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Pick of the week
 
-Micro-services - https://github.com/kukuu/AGILITY/blob/master/micro-services.md
+Micro-services - https://github.com/kukuu/AGILITY/blob/master/micro-services.md 
+
+Technopedia - https://github.com/kukuu/AGILITY/blob/master/technopedia-2.md
 
 Games  - https://github.com/kukuu/games
 
