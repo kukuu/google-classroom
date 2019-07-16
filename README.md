@@ -36,4 +36,6 @@ Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/
 
 The JavaScript Event Loop & NodeJS - https://github.com/kukuu/AGILITY/blob/master/JavaScript-EventLoop.md 
 
-Micro-service - https://github.com/kukuu/AGILITY/blob/master/micro-services.md
+Micro-service - https://github.com/kukuu/AGILITY/blob/master/micro-services.md 
+
+Resources - https://github.com/kukuu/AGILITY/blob/master/resources.md
