@@ -20,8 +20,6 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Pick of the week
 
-Technopedia - https://github.com/kukuu/AGILITY/blob/master/technopedia-2.md
-
 Micro-services - https://github.com/kukuu/AGILITY/blob/master/micro-services.md 
 
 Games  - https://github.com/kukuu/games
@@ -37,5 +35,7 @@ Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/
 The JavaScript Event Loop & NodeJS - https://github.com/kukuu/AGILITY/blob/master/JavaScript-EventLoop.md 
 
 Micro-service - https://github.com/kukuu/AGILITY/blob/master/micro-services.md 
+
+Technopedia - https://github.com/kukuu/AGILITY/blob/master/technopedia-2.md
 
 Resources - https://github.com/kukuu/AGILITY/blob/master/resources.md
