@@ -1,0 +1,24 @@
+<html lang="en">
+	<head>
+		<title>Shift</title>
+		<meta charset="UTF-8">
+		<script>
+			let vegetables =["Cauliflower", "Carrots", "Broccoli", "Lettuce"];
+			
+			function Search(){
+				vegetables.shift(["Cauliflower", "Carrots", "Broccoli", "Lettuce"])
+				let g=document.getElementById("demo");
+				g.innerHTML=vegetables;
+			}
+			window.onload=Search;
+		</script>
+	</head>
+	<body>
+		<p>The shift method removes the first item of an array, and returns the array, and changes the length of the array.</p>
+		
+		<p id="demo">Click the button to reverse the array elements into a string</p>
+		
+		<button onclick="Search()">Launch It!</button>
+		<p class="home"><a href="http://www.goldhawk-college.com/istudio/responsive-design/responsive-design-1.html">Home</p>
+	</body>
+</html>

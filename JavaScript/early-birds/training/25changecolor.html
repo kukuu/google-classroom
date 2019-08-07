@@ -1,0 +1,32 @@
+<html lang="en">
+	<head>
+		<title>Disable Button after click</title>
+		<meta charset="UTF-8">
+		<script>
+			function poll(){
+				for (let i=0; i<document.c.rad1.length; i++){
+				
+					if (document.c.rad1[i].checked){
+					document.fgColor = document.c.rad1[i].value;
+					}
+				}
+			}
+		</script>
+		<style>
+			h2 {
+				margin:20px 0 20px 200px
+			}
+			form{
+				margin:20px 0 20px 200px
+			}
+		</style>
+	</head>
+	<body>
+		<h2>Changing background color</h2>
+		<form name="c">
+			<input type="radio" name="rad1" value="red" onclick="poll()">Red
+			<input type="radio" name="rad1" value="blue" onclick="poll()">Blue
+			<input type="radio" name="rad1" value="silver" onclick="poll()">Silver
+		</form>
+	</body>
+</html>

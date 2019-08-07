@@ -1,0 +1,21 @@
+<html lang="en">
+	<head>
+		<title>Replacing Strings</title>
+		<meta charset="UTF-8">
+		<script>
+			function order(){
+				let numbers = [100,5,25,40,10,50,1];
+				numbers.sort(function(a,b){
+					return a-b;
+				});
+				let a = document.getElementById("demo");
+				a.innerHTML=numbers;
+			}
+		</script>
+	</head>
+	<body>
+		<p id="demo">Click the button to sort the array order [100,5,25,40,10,50,1]</p>
+		
+		<button onclick="order()">Try It!</button>
+	</body>
+</html>

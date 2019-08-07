@@ -1,0 +1,23 @@
+<html lang="en">
+	<head>
+		<title>Push</title>
+		<meta charset="UTF-8">
+		<script>
+			let vegetables =["Cauliflower", "Carrots", "Broccoli", "Lettuce"];
+			
+			function Search(){
+				vegetables.push(["Cauliflower", "Carrots", "Broccoli", "Lettuce"])
+				let g=document.getElementById("demo");
+				g.innerHTML=vegetables;
+			}
+			window.onload=Search;
+		</script>
+	</head>
+	<body>
+		<p>The push() method adds new items to the end of an array. and returns the new length</p>
+		
+		<p id="demo">Click the button to join the array elements into a string</p>
+		
+		<button onclick="Search()">Launch It!</button>
+	</body>
+</html>

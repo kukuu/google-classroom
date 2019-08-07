@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Eight</title>
+		<meta charset="UTF-8">
+		<script>
+			var pasta = ["Rigatoni", "Spaghetti", "Fusili", "Penne", "Macaroni"];
+			
+			function hungry (){
+				pasta.push(["Linguine", "Orzo", "Lasagne"])
+				var a = document.getElementById("try");
+				a.innerHTML = pasta;
+			}
+			window.onload = hungry;
+		</script>
+	</head>
+	<body>
+		<p><b>Push</b> The Push() method adds new items to the end of an array,
+		and returns the new length</p>
+		
+		<p id="try">Click the button to add a new element to the array</p>
+		
+		<!-- going to try a button command-->
+		<button onclick="hungry()">Try It!</button>
+	</body>
+</html>

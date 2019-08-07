@@ -1,0 +1,26 @@
+<html lang="en">
+	<head>
+		<title>Using indexOf and substr to get user id and domain</title>
+		<meta charset="UTF-8">
+		<script>
+			function Search(){
+				let one = ["Sainsburys","Morrisons"];
+				let two = ["Tesco","Asda", "Aldi"];
+				let three = ["Waitrose"];
+				let topstores = one.concat(two,three);
+				let a = document.getElementById("demo");
+				a.innerHTML = topstores;
+			}
+		</script>
+	</head>
+	<body>
+		<p>the <strong>concat()</strong> method is used to join two or more arrays.
+		
+		This method does not change the existing arrays, but returns a new array,
+		containing the values of the joined arrays</p>
+		
+		<p id="demo">Click the button to join the three arrays</p>
+		
+		<button onclick="Search()">Launch It!</button>
+	</body>
+</html>

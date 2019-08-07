@@ -1,0 +1,51 @@
+ <! DOCTYPE html lang="en">
+	<head>
+		<title>Create Dynamic Table</title>
+		<meta charset="UTF-8">
+		<script>
+			function validate() {
+				if(document.f.fname.value == ''){
+					alert('enter first name');
+					return;
+				}
+				
+				else if(document.f.lname.value == ''){
+					alert('enter last name');
+					return;
+				}
+				
+				else if(document.f.email.value == ''){
+					alert('enter email');
+					return;
+				}
+				
+				subnow = confirm('do you want to submit now?');
+			
+				if (subnow) {
+					document.f.submit();
+					document.f.fname.value == '';
+					document.f.lname.value == '';
+					document.f.email.value == '';
+				}
+				
+				else{
+					return;
+				}
+			}
+			
+		</script>
+	</head>
+	<body>
+		<h2>Booking Form</h2>
+		
+		<form name="f" action="#">
+			<p>First Name: <input type="input" name="fname" value=""/></p>
+			
+			<p>Surname: <input type="input" name="lname" value=""/></p>
+			
+			<p>Email: <input type="input" name="email" value=""/></p>
+			
+			<div style="margin-top:20px"><input type="button" value="submit" onclick="validate()"></div>
+		</form
+	</body>
+</html>

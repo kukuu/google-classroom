@@ -1,0 +1,25 @@
+<html lang="en">
+	<head>
+		<title>Using Wordcount</title>
+		<meta charset="UTF-8">
+		<script>
+			function countit(){
+				let formcontent = document.wordcount.wordcount2.value;
+				
+				let content = formcontent.split(" ");
+				
+				document.wordcount.wordcount3.value = content.length;
+			}
+		</script>
+
+	</head>
+	<body>
+		<form name="wordcount">
+			<textarea rows="12" name="wordcount2" cols="38" wrap="virtual"></textarea><br>
+			
+			<input type="button" value="Calculate Words" onclick="countit()">
+			
+			<input type="text" name="wordcount3" size="20">
+		</form>
+	</body>
+</html>

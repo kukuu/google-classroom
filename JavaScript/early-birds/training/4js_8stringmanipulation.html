@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Four</title>
+		<meta charset="UTF-8">
+		<script>
+			var firststring = "zero one two three four";
+			
+			var splitthestring = firststring.split(" ");
+			//here is the loop
+			for( i = 0; i < splitthestring.length; i++)
+			{document.write("<br /> This is my image " + (i+1) + " = " 
+			+ "<img src="+ splitthestring[i] + ".jpg" + ">");
+			}
+			//just checked the source code. It really does loop!
+		</script>
+	</head>
+	<body>
+		<p><b>Class Exercise</b> Using javascript. transform the string 
+		"One two three four and five" as part of an application code to display five images</p>
+	</body>
+</html>

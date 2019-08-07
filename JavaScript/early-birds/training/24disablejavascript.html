@@ -1,0 +1,16 @@
+<html lang="en">
+	<head>
+		<title>Disable Button after click</title>
+		<meta charset="UTF-8">
+		<script>
+			function disableButton(btn){
+				document.getElementById(btn.id).disabled - true;
+				alert("Button has been disabled");
+			}
+		</script>
+	</head>
+	<body style="text align:center;">
+		<h1>Disable Button After click using Javascript Function</h1>
+		<p><input type="button" id="btn1" value="Click to disable button" onclick="disableButton(this)"</p>
+	</body>
+</html>

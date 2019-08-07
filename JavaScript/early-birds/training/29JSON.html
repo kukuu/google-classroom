@@ -1,0 +1,69 @@
+<html lang="en">
+	<head>
+		<title>Create Dynamic Table</title>
+		<meta charset="UTF-8">
+		
+
+	</head>
+	<body>
+		<h2>Gallery From JSON</h2>
+		
+		<p><img id="picture" src="" alt="Picture for Exercise"></p>
+		
+		<p id="thumbs"></p>
+		
+		<script>
+			let pics = [
+				{
+				"href": "http://placehold.it/515x100/000/fff",
+				"src": "http://placehold.it/100/000/fff"
+				},
+			
+				{
+				"href": "http://placehold.it/515x100/0cc031/fff",
+				"src": "http://placehold.it/100/0cc031/fff"
+				},
+			
+				{
+				"href": "http://placehold.it/515x100/11493dc/fff",
+				"src": "http://placehold.it/100/11493dc/fff"
+				},
+			
+				{
+				"href": "http://placehold.it/515x100/ff5512/fff",
+				"src": "http://placehold.it/100/ff5512/fff"
+				},
+				
+				{
+				"href": "http://placehold.it/515x100/dd38811/fff",
+				"src": "http://placehold.it/100/dd38811/fff"
+				}
+			];
+		
+		let list = document.getElementById('thumbs'),
+			image,
+			anchor;
+			
+		for (i = 0; i < pics.length; i++){
+			anchor = document.createElement('a');
+			anchor.href = pics[i].href;
+			
+			image = document.createElement('img');
+			image.src = pics[i].src;
+			
+			anchor.appendChild(image);
+			
+			document.body.insertBefore(anchor, list);
+			
+			anchor.addEventListener("click", showImage);
+		}
+		
+		document.getElementById('picture').src = pics[0].href;
+		
+		function showImage(e) {
+			e.preventDefault();
+			document.getElementById('picture').src = this.href;
+		}
+		</script>
+	</body>
+</html>

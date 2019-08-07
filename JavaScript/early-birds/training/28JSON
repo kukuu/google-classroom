@@ -1,0 +1,27 @@
+<html lang="en">
+	<head>
+		<title>Create Dynamic Table</title>
+		<meta charset="UTF-8">
+		<script>
+			document.write("<h1>TimesTable In Javascript!</h1><img src='chili.jpg' width=200px height=200px><br>");
+			document.write("<table border=3 width=60%>");
+			
+			for ( let a = 1; a <= 12; a++){
+				document.write("<tr>");
+				document.write("<td>" + a + "</td>");
+				
+				for (let b = 2; b <= 12; b++){
+					document.write("<td>" + (a * b) + "</td>");
+				}
+				
+				document.write("</tr>");
+			}
+			
+			document.write("</table>");
+		</script>
+
+	</head>
+	<body>
+		
+	</body>
+</html>
