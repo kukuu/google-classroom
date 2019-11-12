@@ -8,19 +8,37 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Coverage 
 
-1. Open Source Technologies 
+1. Open Source Technologies:
 
-2. Hands-on Programming 
+```
+1. Learn to Wite JavaScript
 
-3. Business Computing
+2. REACT
 
-4. Digital Transformation
+2. PHP
 
-5. Design Thinking and Strategic Lean Engineering Practices
+3. RDBM (SQL & noSQL)
+
+4. jQuery
+
+
+```
+
+2. Software Architectural patterns & Designs
+
+3. Digital Transformation & Strategic Lean Engineering Practices
+
+4. Design Thinking 
 
 ## Pick of the week
 
-Micro-services - https://github.com/kukuu/AGILITY/blob/master/micro-services.md 
+Graduate Academy Programme - Restricted material (on Request only).
+
+GraphQL, REDUX, REACT & Express Framework - https://github.com/kukuu/react-redux-graphql-express
+
+Algorithms - https://github.com/kukuu/algorithms 
+
+The JavaScript Event Loop & NodeJS - https://github.com/kukuu/AGILITY/blob/master/JavaScript-EventLoop.md 
 
 Games  - https://github.com/kukuu/games
 
@@ -32,10 +50,6 @@ Hybrid CMS (Headless CMS) - https://github.com/kukuu/AGILITY/blob/master/white-p
 
 Security, Encrytion & Governance - https://github.com/kukuu/AGILITY/blob/master/white-paper/security-encryption.md
 
-The JavaScript Event Loop & NodeJS - https://github.com/kukuu/AGILITY/blob/master/JavaScript-EventLoop.md 
-
 Micro-service - https://github.com/kukuu/AGILITY/blob/master/micro-services.md 
 
-Technopedia - https://github.com/kukuu/AGILITY/blob/master/technopedia-2.md
-
-Resources - https://github.com/kukuu/AGILITY/blob/master/resources.md
+Technopedia - https://github.com/kukuu/Technopedia
