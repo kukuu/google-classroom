@@ -11,15 +11,17 @@ This is a secured learning zone  for professional Software Engineering students 
 1. Open Source Technologies:
 
 ```
-1. Learn to Wite JavaScript
+i. Learn to Wite JavaScript
 
-2. REACT
+ii. REACT
 
-2. PHP
+iii. PHP
 
-3. RDBM (SQL & noSQL)
+iv. RDBM (SQL & noSQL)
 
-4. jQuery
+v. jQuery
+
+vi. eCommerce
 
 
 ```
@@ -32,7 +34,7 @@ This is a secured learning zone  for professional Software Engineering students 
 
 ## Pick of the week
 
-Graduate Academy Programme - Restricted material (on Request only).
+Graduate Academy Programme - Restricted material (Request only).
 
 GraphQL, REDUX, REACT & Express Framework - https://github.com/kukuu/react-redux-graphql-express
 
