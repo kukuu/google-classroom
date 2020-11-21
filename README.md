@@ -2,6 +2,14 @@
 
 This is a secured learning zone  for professional Software Engineering students and Engineering Consultants.
 
+## EBS
+
+- https://ebsontrackpluslivex.citylit.ac.uk/Page/MarkRegister?registereventid=231542&registereventslotid=1110400
+
+## Messaging
+
+- https://outlook.office365.com/mail/inbox/id/AAQkADk5YzcxYzEyLWM0MGUtNDdhOC1hNjg0LWIwZTZjYjkwOGY2MQAQAGu%2B4fCzdEwcjoiOxHs2ptc%3D
+
 ## Content Delivery
 
 1. Notes, Projects, Exercises and Presentations  - https://classroom.google.com/c/NTQ5NzIxNDEwMVpa 
